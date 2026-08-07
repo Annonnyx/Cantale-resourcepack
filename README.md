@@ -1,11 +1,9 @@
 # Cantale Resource Pack
 
-Téléchargement direct (Minecraft) :
-
 ```
 https://raw.githubusercontent.com/Annonnyx/Cantale-resourcepack/main/cantale-resourcepack.zip
 ```
 
-SHA-1 : `c3380dfc29119f791f1970f4737a0d6c0d9cd742`
+SHA-1 : `ebeb3b899e72e0dcdd37bf959cce6d41e25964c6`
 
-pack format : min/max 75 (Minecraft 1.21.11)
+Fix: font/default.json paths (textures/ doubled → Default font failed to load).
