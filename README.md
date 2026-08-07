@@ -1,10 +1,11 @@
 # Cantale Resource Pack
 
-Le fichier `cantale-resourcepack.zip` est servi en **téléchargement direct** (sans redirect Azure) pour le client Minecraft :
+Téléchargement direct (Minecraft) :
 
 ```
 https://raw.githubusercontent.com/Annonnyx/Cantale-resourcepack/main/cantale-resourcepack.zip
 ```
 
-SHA-1 : `b61a7a7db750352711075a10ab14cca42a12ceb0`
-pack_format : 75 (Minecraft 1.21.11)
+SHA-1 : `c3380dfc29119f791f1970f4737a0d6c0d9cd742`
+
+pack format : min/max 75 (Minecraft 1.21.11)
